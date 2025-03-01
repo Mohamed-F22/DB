@@ -1,0 +1,196 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "title": "Black Hoodi",
+        "price": 109.95,
+        "description": "A stylish and comfortable black hoodie for men. Made from a blend of cotton and polyester to ensure comfort and durability. It features a hood and a spacious front pocket. Its sleek black design makes it suitable for any outfit.",
+        "category": "Men's clothing",
+        "image": "https://shop.msg.com/cdn/shop/products/MSGBLS0003D.jpg?v=1642171262&width=1445",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+        },
+        {
+        "id": 2,
+        "title": "Mens T-Shirts ",
+        "price": 22.3,
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "Men's clothing",
+        "image": "https://petermanningnyc.com/cdn/shop/files/LSHenley_Olive_2048x20482_8ee8ffe1-1266-4d73-b3fa-f799944db2bf_2000x.png?v=1713892740",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+        },
+        {
+        "id": 3,
+        "title": "Browen Hoodi",
+        "price": 55.99,
+        "description": "A stylish and comfortable brown hoodie for men. Made from a blend of cotton and polyester to ensure comfort and durability. It features a hood and a spacious front pocket. Its sleek brown design makes it suitable for any outfit.",
+        "category": "Men's clothing",
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/files/main-square_c10fb446-e321-4837-9958-0c86d3bb96f8.jpg?v=1707797963",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+        },
+        {
+        "id": 4,
+        "title": "Oversize Men Shirt",
+        "price": 15.99,
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "Men's clothing",
+        "image": "https://images.vestiairecollective.com/images/resized/w=1246,q=75,f=auto,/produit/black-cotton-dsquared2-t-shirt-47275209-1_3.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+        },
+        {
+        "id": 5,
+        "title": "Jeans",
+        "price": 120,
+        "description": "Stylish and comfortable jeans for men. Made from durable denim to ensure longevity and comfort. They feature a classic five-pocket design and a versatile fit that pairs well with any outfit. The sleek design makes them suitable for both casual and semi-formal occasions.",
+        "category": "Men's clothing",
+        "image": "https://www.ubuy.com.eg/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzF1U0JrUFhoVEwuX1NTNDAwXy5qcGc.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+        },
+        {
+        "id": 6,
+        "title": "Men jacket",
+        "price": 355,
+        "description": "A stylish and versatile casual jacket for men. Crafted from high-quality materials to ensure comfort and durability. It features a front zipper, multiple functional pockets, and a relaxed fit that makes it perfect for everyday wear. The sleek design allows it to be easily paired with any outfit, making it suitable for both casual outings and semi-formal occasions.",
+        "category": "Men's clothing",
+        "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/96/259832/1.jpg?2170",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+        },
+        {
+        "id": 7,
+        "title": "Children jean",
+        "price": 9.99,
+        "description": "Stylish and comfortable jeans for children. Made from durable denim to ensure longevity and comfort for active play. They feature a classic five-pocket design and an adjustable waistband for a perfect fit. The versatile design makes them suitable for various occasions, from casual outings to school wear.",
+        "category": "Children's clothing",
+        "image": "https://cdn.webshopapp.com/shops/51009/files/411415621/minikid-blue-sturdy-trousers-comfortable-pants-chi.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+        },
+        {
+        "id": 8,
+        "title": "Children Shirt",
+        "price": 10.99,
+        "description": "A stylish and comfortable white shirt for children. Made from soft and breathable fabric to ensure all-day comfort. It features a classic button-down front and a neat collar, making it suitable for both casual and formal occasions. The versatile design allows it to be easily paired with jeans, trousers, or skirts for a smart and polished look.",
+        "category": "Children's clothing",
+        "image": "https://thegoodtee.com/cdn/shop/collections/MG_6405.jpg?v=1613606969",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+        },
+        {
+        "id": 9,
+        "title": "Women Shirt",
+        "price": 64,
+        "description": "A classic and comfortable shirt for women. Made from soft and breathable fabric to ensure all-day comfort. It features a simple design with a crew neck and short sleeves, making it a versatile addition to any wardrobe. Perfect for casual wear, it can be easily paired with jeans, skirts, or trousers for a relaxed and stylish look.",
+        "category": "Women's clothing",
+        "image": "https://smartobjet.fr/13031-medium_default/tee-shirt-coton-bio-crusader-women-couleur.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+        },
+        {
+        "id": 10,
+        "title": "Women Shirt",
+        "price": 109,
+        "description": "A stylish and comfortable casual shirt for women. Made from soft and breathable fabric to ensure all-day comfort. It features a relaxed fit, a simple design with a crew neck or V-neck, and short sleeves. The versatile style makes it perfect for everyday wear and easy to pair with jeans, skirts, or trousers for a laid-back yet chic look.",
+        "category": "Women's clothing",
+        "image": "https://i.ebayimg.com/images/g/Hi8AAOSwQBpnGSV6/s-l400.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+        },
+        {
+        "id": 11,
+        "title": "Skirt",
+        "price": 109,
+        "description": "A stylish and elegant long skirt for women. Made from high-quality, flowy fabric to ensure comfort and a graceful drape. It features a comfortable waistband and a versatile design that can be dressed up or down for various occasions. The long length adds a touch of sophistication, making it perfect for both casual and formal events.",
+        "category": "Women's clothing",
+        "image": "https://img.fruugo.com/product/1/14/1797794141_0340_0340.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+        },
+        {
+        "id": 12,
+        "title": "Women Jeans",
+        "price": 114,
+        "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+        "category": "Women's clothing",
+        "image": "https://i5.walmartimages.com/asr/6f2fe0e9-c40c-4afc-affd-8304fbcdfd05.69c7c7f4b21eea9750ccef7c7e3bb7fc.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+        },
+        {
+        "id": 13,
+        "title": "Red Dress",
+        "price": 599,
+        "description": "A stunning and elegant red dress for women. Made from high-quality, comfortable fabric to ensure a perfect fit and graceful movement. It features a flattering silhouette, a classic neckline, and a versatile design that can be dressed up or down for various occasions. The vibrant red color adds a touch of boldness and sophistication, making it perfect for both casual and formal events.",
+        "category": "Dresses",
+        "image": "https://sassymyprom.com/cdn/shop/products/QQ_20190227095337_480x480.png?v=1724822338",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+        },
+        {
+        "id": 14,
+        "title": "Elegant Suit",
+        "price": 999.99,
+        "description": "A sophisticated and stylish men's suit. Crafted from high-quality, durable fabric to ensure a sharp and polished look. It features a tailored fit, a classic single-breasted jacket with notched lapels, and matching trousers. The suit is designed to provide both comfort and elegance, making it perfect for formal events, business meetings, or special occasions. The timeless design allows it to be easily paired with a dress shirt and tie for a complete and refined outfit.",
+        "category": "Suit",
+        "image": "https://sfycdn.speedsize.com/2780c694-3419-4266-9652-d242439affeb/https://stateandliberty.com/cdn/shop/files/Black-Suit---1_9f608683-2129-4321-8cd2-47efa69981b3_1.jpg?crop=center&height=1200&v=1702934687&width=1200",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+        },
+        {
+        "id": 15,
+        "title": "Gold Bracelet",
+        "price": 56.99,
+        "description": "An elegant and luxurious gold bracelet for women. Crafted from high-quality gold to ensure a timeless and sophisticated look. It features a sleek design with a secure clasp, making it perfect for both everyday wear and special occasions. The bracelet's classic style adds a touch of glamour and refinement to any outfit, making it a perfect accessory for those who appreciate fine jewelry.",
+        "category": "Jewelery",
+        "image": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIPO0671V01-POSTER-50047.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+        },
+        {
+        "id": 16,
+        "title": "Elegant Watch",
+        "price": 29.95,
+        "description": "A sleek and sophisticated men's watch. Crafted from high-quality materials to ensure durability and a refined look. It features a stylish face with clear markings, a comfortable strap, and reliable movement for accurate timekeeping. The timeless design makes it a perfect accessory for both casual and formal occasions, adding a touch of elegance and practicality to any outfit.",
+        "category": "Jewelery",
+        "image": "https://catchywatches.com/wp-content/uploads/2025/02/1513183-original-hugo-bpss-men-watch-blue-dial-silver-metal-stainless-steel-egypt.webp",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+        }
+    ]
+}
