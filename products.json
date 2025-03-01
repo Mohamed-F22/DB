@@ -1,5 +1,4 @@
-{
-    "products": [
+[
         {
         "id": 1,
         "title": "Black Hoodi",
@@ -193,4 +192,3 @@
         }
         }
     ]
-}
